@@ -18,5 +18,4 @@ bin/
 # or
 */bin/*
 
-# Unignore all `.exe` in `bin` dir
-!*/bin/*.exe
+# Unignore all `.ex
