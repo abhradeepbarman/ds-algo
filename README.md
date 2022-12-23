@@ -6,9 +6,7 @@
 
 # Data Structures and Algorithms
 
-Data structures and algorithms are fundamental concepts in computer science that are used to store, organize, and manipulate data in a computer. 
-
-There are many different data structures and algorithms, each with its own set of characteristics and uses. Some common data structures include arrays, linked lists, stacks, queues, trees, and graphs. Some common algorithms include sorting algorithms.
+Data structures and algorithms are fundamental concepts in computer science that are used to store, organize data in a computer. There are many different data structures and algorithms. Some common data structures include arrays, linked lists, stacks, queues, trees, and graphs. Some common algorithms include sorting algorithms.
 
 ## Table of Contents
 
