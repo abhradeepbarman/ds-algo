@@ -36,6 +36,9 @@ int partition(int arr[], int low, int high)
     return j;
 }
 
+// Time complexity --> O(nlogn)
+// space complexity --> O(n)
+
 void quickSort(int arr[], int low, int high)
 {
     if(low < high) {
